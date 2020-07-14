@@ -23,6 +23,9 @@
       <change afterPath="$PROJECT_DIR$/../../../_htmlAndCss/CssStyles/.idea/CssStyles.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_htmlAndCss/CssStyles/Chapter_1/Hat_Chapter_1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_htmlAndCss/CssStyles/Chapter_1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../_js/Clock-on-js/funcionality-example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../_js/Clock-on-js/imper-example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../_js/Clock-on-js/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_js/React_TikTakToe/.idea/React_TikTakToe.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_js/React_TikTakToe/tiktaktoe/src/index.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_js/React_TikTakToe/tiktaktoe/src/index.js" afterDir="false" />
@@ -60,11 +63,8 @@
       <change beforePath="$PROJECT_DIR$/../../Tkinter_lesson/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tkinter_lesson/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../everycheese/everycheese.db" beforeDir="false" afterPath="$PROJECT_DIR$/../everycheese/everycheese.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../servicesite" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
@@ -5485,6 +5485,7 @@
       <updated>1593685572657</updated>
       <workItem from="1593685590179" duration="2946000" />
       <workItem from="1594122062293" duration="1570000" />
+      <workItem from="1594706550430" duration="319000" />
     </task>
     <servers />
   </component>
