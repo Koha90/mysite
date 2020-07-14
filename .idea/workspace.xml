@@ -44,10 +44,7 @@
       <change afterPath="$PROJECT_DIR$/../../../_js/js_na_primerah/глава 2/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_php/.idea/_php.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_php/oreilly/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/css/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/pagination.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../tele_bot/.idea/tele_bot.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../tele_bot/tele_bot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
@@ -68,8 +65,8 @@
       <change beforePath="$PROJECT_DIR$/../everycheese/everycheese.db" beforeDir="false" afterPath="$PROJECT_DIR$/../everycheese/everycheese.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite.rar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../servicesite" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
@@ -5504,7 +5501,7 @@
       <updated>1593685572657</updated>
       <workItem from="1593685590179" duration="2946000" />
       <workItem from="1594122062293" duration="1570000" />
-      <workItem from="1594706550430" duration="5930000" />
+      <workItem from="1594706550430" duration="7095000" />
     </task>
     <servers />
   </component>
@@ -5528,5 +5525,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="554" y="114" width="998" height="708" key="SettingsEditor/0.0.1920.1040/1920.316.1360.728/-1280.60.1280.984@0.0.1920.1040" timestamp="1593686369236" />
+    <state x="569" y="187" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594720362467">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="187" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.316.1360.728/-1280.60.1280.984@0.0.1920.1040" timestamp="1594720362467" />
   </component>
 </project>
