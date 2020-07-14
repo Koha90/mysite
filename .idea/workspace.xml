@@ -44,6 +44,7 @@
       <change afterPath="$PROJECT_DIR$/../../../_js/js_na_primerah/глава 2/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_php/.idea/_php.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_php/oreilly/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../tele_bot/.idea/tele_bot.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../tele_bot/tele_bot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
@@ -63,8 +64,9 @@
       <change beforePath="$PROJECT_DIR$/../../Tkinter_lesson/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tkinter_lesson/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../everycheese/everycheese.db" beforeDir="false" afterPath="$PROJECT_DIR$/../everycheese/everycheese.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../servicesite" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
@@ -5432,6 +5434,13 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -5485,7 +5494,7 @@
       <updated>1593685572657</updated>
       <workItem from="1593685590179" duration="2946000" />
       <workItem from="1594122062293" duration="1570000" />
-      <workItem from="1594706550430" duration="319000" />
+      <workItem from="1594706550430" duration="3864000" />
     </task>
     <servers />
   </component>
