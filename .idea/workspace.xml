@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de4ad6a5-0425-4d74-b2dc-41f48981632a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/jsLibraryMappings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_htmlAndCss/CssStyles/.idea/CssStyles.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_htmlAndCss/CssStyles/Chapter_1/Hat_Chapter_1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_htmlAndCss/CssStyles/Chapter_1/styles.css" afterDir="false" />
@@ -31,6 +32,7 @@
       <change afterPath="$PROJECT_DIR$/../../../_js/React_TikTakToe/tiktaktoe/src/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_js/Road-React/.idea/Road-React.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_js/_ReactJS/webfirst/.idea/webfirst.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../_js/chat/chat-frontend/.idea/chat-frontend.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_js/chat/chat-frontend/mychat/auth/serializers.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_js/hello-react/.idea/hello-react.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_js/hello-react/my-shop-1/src/Catalog.css" afterDir="false" />
@@ -44,8 +46,12 @@
       <change afterPath="$PROJECT_DIR$/../../../_js/js_na_primerah/глава 2/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_php/.idea/_php.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_php/oreilly/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Brain_Skill/Home_Work_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../tele_bot/.idea/tele_bot.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../tele_bot/tele_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../html/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../_html/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../_js/_ReactJS/chapter_3.1.html" beforeDir="false" />
@@ -64,7 +70,9 @@
       <change beforePath="$PROJECT_DIR$/../everycheese/everycheese.db" beforeDir="false" afterPath="$PROJECT_DIR$/../everycheese/everycheese.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite.rar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../servicesite" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
@@ -5435,8 +5443,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -5499,7 +5507,9 @@
       <updated>1593685572657</updated>
       <workItem from="1593685590179" duration="2946000" />
       <workItem from="1594122062293" duration="1570000" />
-      <workItem from="1594706550430" duration="8854000" />
+      <workItem from="1594706550430" duration="9318000" />
+      <workItem from="1594815344073" duration="769000" />
+      <workItem from="1594982048665" duration="3231000" />
     </task>
     <servers />
   </component>
