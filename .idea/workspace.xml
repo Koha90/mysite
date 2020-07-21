@@ -47,6 +47,13 @@
       <change afterPath="$PROJECT_DIR$/../../../_php/.idea/_php.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../_php/oreilly/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Brain_Skill/Home_Work_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/Markdown-3.2.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/Markdown-3.2.2.dist-info/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/Markdown-3.2.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/Markdown-3.2.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/Markdown-3.2.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/Markdown-3.2.2.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/Markdown-3.2.2.dist-info/top_level.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/django_taggit-1.3.0.dist-info/AUTHORS" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/django_taggit-1.3.0.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/django_taggit-1.3.0.dist-info/LICENSE" afterDir="false" />
@@ -54,6 +61,39 @@
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/django_taggit-1.3.0.dist-info/RECORD" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/django_taggit-1.3.0.dist-info/WHEEL" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/django_taggit-1.3.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/__meta__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/blockparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/blockprocessors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/abbr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/admonition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/attr_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/codehilite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/def_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/extra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/fenced_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/footnotes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/legacy_attrs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/legacy_em.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/md_in_html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/nl2br.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/sane_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/smarty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/toc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/extensions/wikilinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/inlinepatterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/pep562.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/postprocessors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/preprocessors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/test_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/treeprocessors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/markdown/util.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/taggit/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/taggit/admin.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/taggit/apps.py" afterDir="false" />
@@ -100,9 +140,7 @@
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/taggit/models.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/taggit/utils.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/taggit/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post/latest_posts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templatetags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templatetags/blog_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Scripts/markdown_py.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../tele_bot/.idea/tele_bot.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../tele_bot/tele_bot.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../html/1.html" afterDir="false" />
@@ -125,7 +163,7 @@
       <change beforePath="$PROJECT_DIR$/../everycheese/everycheese.db" beforeDir="false" afterPath="$PROJECT_DIR$/../everycheese/everycheese.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite.rar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templatetags/blog_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templatetags/blog_tags.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../servicesite" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
@@ -5568,7 +5606,7 @@
       <workItem from="1594815344073" duration="769000" />
       <workItem from="1594982048665" duration="14063000" />
       <workItem from="1595272382230" duration="1249000" />
-      <workItem from="1595324337218" duration="2510000" />
+      <workItem from="1595324337218" duration="4156000" />
     </task>
     <servers />
   </component>
