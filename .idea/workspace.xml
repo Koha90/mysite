@@ -161,7 +161,6 @@
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/taggit/utils.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Lib/site-packages/taggit/views.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../calc_on_tk/venv/Scripts/markdown_py.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post/search.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../tele_bot/.idea/tele_bot.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../tele_bot/tele_bot.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../html/1.html" afterDir="false" />
@@ -184,9 +183,8 @@
       <change beforePath="$PROJECT_DIR$/../everycheese/everycheese.db" beforeDir="false" afterPath="$PROJECT_DIR$/../everycheese/everycheese.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite.rar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post/search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../servicesite" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sppperm/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
@@ -5630,7 +5628,7 @@
       <workItem from="1594982048665" duration="14063000" />
       <workItem from="1595272382230" duration="1249000" />
       <workItem from="1595324337218" duration="5892000" />
-      <workItem from="1595398504688" duration="5650000" />
+      <workItem from="1595398504688" duration="6805000" />
     </task>
     <servers />
   </component>
